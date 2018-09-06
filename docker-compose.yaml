@@ -1,0 +1,6 @@
+version: "2"
+services:
+     calculator:
+          image: sandyverden/spring-boot-sample
+          ports:
+               - 8183
